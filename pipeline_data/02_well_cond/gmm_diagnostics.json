@@ -1,0 +1,46 @@
+{
+  "lda_score": 0.9563522992985191,
+  "training_zone": "Plover Volcanics Fm. \u2192 Nome Fm.",
+  "n_train": 1283,
+  "confusion_matrix": [
+    [
+      417,
+      26,
+      8
+    ],
+    [
+      0,
+      506,
+      86
+    ],
+    [
+      0,
+      12,
+      228
+    ]
+  ],
+  "permutation": [
+    0,
+    1,
+    2
+  ],
+  "weights": [
+    0.32470617651828326,
+    0.42116266438258143,
+    0.25413115909913536
+  ],
+  "converged": true,
+  "n_iter": 21,
+  "rule_based_distribution": {
+    "Poseidon-1": {
+      "Shale": 489,
+      "Wet Sand": 332,
+      "HC Sand": 156
+    },
+    "Boreas-1": {
+      "Shale": 114,
+      "Wet Sand": 688,
+      "HC Sand": 266
+    }
+  }
+}

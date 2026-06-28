@@ -1,0 +1,18 @@
+{
+  "N_ENS": 100,
+  "N_ITER": 4,
+  "R_VERT_MS": 8.0,
+  "R_LAT_TRACES": 40.0,
+  "BETA_MRF": 1.2,
+  "N_ICM": 6,
+  "ALPHA_RECOND": 0.15,
+  "ALPHA_I": 4.0,
+  "RNG_SEED": 42,
+  "NTR": 895,
+  "NT_WIN": 114,
+  "lfc_names": [
+    "Shale",
+    "WetSand",
+    "HCSand"
+  ]
+}

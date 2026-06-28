@@ -1,0 +1,24 @@
+{
+  "n_components": 3,
+  "features": [
+    "PHIE",
+    "VSH",
+    "SW",
+    "VP",
+    "VS",
+    "RHOB",
+    "LR",
+    "MR",
+    "RD"
+  ],
+  "n_train_samples": 1283,
+  "weights": [
+    0.32470617651828326,
+    0.42116266438258143,
+    0.25413115909913536
+  ],
+  "converged": true,
+  "n_iter": 21,
+  "lda_score": 0.9563522992985191,
+  "training_zone": "Plover Volcanics Fm. \u2192 Nome Fm."
+}

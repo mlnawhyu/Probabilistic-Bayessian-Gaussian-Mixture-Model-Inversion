@@ -1,0 +1,29 @@
+{
+  "interpolation_method": "horizon_guided_ordinary_kriging",
+  "n_wells": 2,
+  "wells": [
+    "Poseidon-1",
+    "Boreas-1"
+  ],
+  "n_pseudo_wells": 26,
+  "range_traces_forced": 94,
+  "inter_well_dist": 188.0,
+  "filter_freq_hz": 20.0,
+  "LFM_keys": [
+    "VP",
+    "VS",
+    "RHOB"
+  ],
+  "LFM_PETRO_keys": [
+    "PHIE",
+    "VSH",
+    "SW"
+  ],
+  "NTR": 895,
+  "NT_WIN": 114,
+  "DT_SEIS": 0.004,
+  "well_trace_idx": {
+    "Poseidon-1": 414,
+    "Boreas-1": 602
+  }
+}

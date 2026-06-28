@@ -1,0 +1,25 @@
+{
+  "NTR": 895,
+  "NT_WIN": 114,
+  "DT_SEIS": 0.004,
+  "twt_win_s": [
+    3.0,
+    3.452
+  ],
+  "trace_min": 1,
+  "trace_max": 895,
+  "horizons": [
+    "Montara",
+    "Nome",
+    "Plover_Reservoir",
+    "Plover_Volcanics"
+  ],
+  "TOP_COL": "Montara",
+  "BOT_COL": "Nome",
+  "use_horizon_cut": true,
+  "SN_median_dB": {
+    "near": 220.0574493408203,
+    "mid": 221.76124572753906,
+    "far": 225.00387573242188
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "wells_processed": [
+    "Poseidon-1",
+    "Boreas-1"
+  ],
+  "interval_top": "Montara Fm.",
+  "interval_bottom": "TD",
+  "n_samples_per_well": {
+    "Poseidon-1": 977,
+    "Boreas-1": 1068
+  },
+  "rho_clay": 2.55,
+  "phi_c": 0.37,
+  "calibration_flags": {
+    "calibrate_corr_length": true,
+    "calibrate_sigma0": true,
+    "calibrate_noise": true
+  },
+  "n_qsamp": 20000,
+  "lateral_blend_lambda": 0.25,
+  "n_pseudo_wells": 10
+}

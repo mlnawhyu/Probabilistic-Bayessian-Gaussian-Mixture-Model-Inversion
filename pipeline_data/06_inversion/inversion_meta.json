@@ -1,0 +1,57 @@
+{
+  "method": "Grana & Della Rossa 2010 (parametric GMM)",
+  "step1": "Bayesian linearised AVO (Buland-Omre 2003)",
+  "step2": "P(R|m) via joint GMM + ensemble N_QSAMP",
+  "theta_deg": [
+    12.0,
+    24.0,
+    36.0
+  ],
+  "corr_length_ms": 6.0,
+  "noise_var": 0.08506946584941213,
+  "noise_scale_per_angle": [
+    0.999999999412245,
+    0.9250039727889445,
+    1.1115452682838423
+  ],
+  "n_qsamp": 500,
+  "lateral_blend_lambda": 0.35,
+  "sigma0_source": "NB2_calibrated",
+  "noise_source": "NB4_calibrated",
+  "clip_bounds": {
+    "PHIE": [
+      0.0,
+      0.2397
+    ],
+    "VSH": [
+      0.0,
+      1.0
+    ],
+    "SW": [
+      0.0561,
+      1.0
+    ],
+    "LR": [
+      1000000000.0,
+      20000000000.0
+    ],
+    "MR": [
+      500000000.0,
+      8000000000.0
+    ],
+    "RD": [
+      0.1,
+      1000.0
+    ]
+  },
+  "lfc_labels": [
+    "Shale",
+    "Wet Sand",
+    "HC Sand"
+  ],
+  "lfc_coherence": 0.9656579928568625,
+  "n_components": 3,
+  "NTR": 895,
+  "NT_WIN": 114,
+  "DT_SEIS": 0.004
+}

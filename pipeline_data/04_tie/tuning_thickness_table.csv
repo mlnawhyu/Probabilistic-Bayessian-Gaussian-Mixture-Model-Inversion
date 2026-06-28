@@ -1,0 +1,7 @@
+Well,Marker,Top (m),Base (m),Thickness (m),Vavg (m/s),Freq (Hz),λ (m),Tuning λ/4 (m),Resolved
+Poseidon-1,Montara → Plover Volcanics,4628.7,4686.9,58.2,3400.1,24.41,139.27,34.82,✓
+Poseidon-1,Plover Volcanics → Plover Reservoir,4686.9,4799.83,112.93,4017.8,24.41,164.57,41.14,✓
+Poseidon-1,Plover Reservoir → Nome,4799.83,5030.04,230.21,4240.0,24.41,173.67,43.42,✓
+Boreas-1,Montara → Plover Volcanics,4675.43,4775.88,100.45,4006.3,24.41,164.1,41.02,✓
+Boreas-1,Plover Volcanics → Plover Reservoir,4775.88,4882.38,106.5,4296.3,24.41,175.98,43.99,✓
+Boreas-1,Plover Reservoir → Nome,4882.38,5073.62,191.24,4684.4,24.41,191.87,47.97,✓
